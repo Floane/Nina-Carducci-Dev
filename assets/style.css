@@ -76,6 +76,11 @@ body {
 	max-width: 100%;
 	height: auto;
 }
+.visually-hidden {
+	opacity: 1;
+	color: #FFF;
+	background: #000;
+}
 #about-me {
 	flex: 2;
 }
